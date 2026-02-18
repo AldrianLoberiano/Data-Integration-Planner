@@ -1,0 +1,33 @@
+### Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+### Build / Output
+dist/
+out/
+build/
+.vite/
+coverage/
+
+### Environment / secrets
+.env
+.env.*
+secrets.*
+credentials.json
+*.pem
+*.key
+
+### Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+### Project-specific
+guidelines/
+ATTRIBUTIONS.md
+
+### Databases
+*.sqlite
+*.db
